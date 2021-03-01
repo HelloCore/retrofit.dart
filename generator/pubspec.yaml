@@ -9,7 +9,7 @@ environment:
   sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
-  dio: ^3.0.1
+  dio: ^4.0.0-beta1
   source_gen: ^0.9.4+2
   built_collection: ^4.2.0
   code_builder: ^3.2.0
